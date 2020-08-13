@@ -5,8 +5,6 @@ The transcripts were obtained from live journal, an online platform, through Web
 
 The code is based on the keras text generation example.
 
-WARNING : Requires extreme computing power to train an LSTM NN.
-
 Although a lot of problems still exist, this is my first attempt.
 
 Thank you for your support!
